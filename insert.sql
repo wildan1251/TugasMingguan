@@ -1,7 +1,7 @@
 ﻿insert into tugas_mingguan values ("10113052","Farhan Aris Munandar","2015-10-16 21.29"),
 insert into tugas_mingguan values ("10113075","Mochamad Arry Akbar","2015-10-17 07.22"),
 /* baris 1 hanya contoh perintah yang dimasukan, silakan tambahkan data anda setelah baris ini */
-"10113218","Bayu Wijaya Permana Putra"
+insert into tugas_mingguan values ("10113218","Bayu Wijaya Permana Putra","2015-10-18 23.08"),
 <<<<<<< HEAD
 insert into tugas_mingguan values ("10113049”,”Friendy”,”2015-10-28 09:31"),
 =======
