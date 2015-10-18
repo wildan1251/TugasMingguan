@@ -1,4 +1,4 @@
-insert into tugas_mingguan values ("10113052","Farhan Aris Munandar","2015-10-16 21.29"),
+﻿insert into tugas_mingguan values ("10113052","Farhan Aris Munandar","2015-10-16 21.29"),
 insert into tugas_mingguan values ("10113075","Mochamad Arry Akbar","2015-10-17 07.22"),
 /* baris 1 hanya contoh perintah yang dimasukan, silakan tambahkan data anda setelah baris ini */
 <<<<<<< HEAD
@@ -29,4 +29,6 @@ insert inti tugas_mingguan values ("10113459","Prelly Sitinjak","2015-10-18 9.10
 insert into tugas_mingguan values ("10112002"."Ridwan Setiawan","2015-10-18 10.31"),
 insert into tugas_mingguan values ("10112840"."Nugraha Mulyono","2015-10-18 12.28"),
 insert into tugas_mingguan values ("10113072","Eva Kurniawati", 2015-10-18 13.30"),
+insert into tugas_mingguan values ("10113352","Muhamad Iqbal Baehaqi","2015-10-18 17.36"),
 >>>>>>> 718bdba29914efb11c40c3cb8c324a572401a91e
+
